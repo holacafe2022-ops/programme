@@ -1,6 +1,6 @@
 // PROGRAMME — عامل الخدمة: يحفظ التطبيق ليعمل بلا إنترنت.
 // عند تعديل index.html غيّر رقم VERSION ليصل التحديث للهاتف.
-const VERSION = "programme-23.0.0";
+const VERSION = "programme-23.0.1-icon";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
